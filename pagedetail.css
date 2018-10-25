@@ -1,0 +1,18 @@
+#image{
+  display: inline;
+  margin-left: 0;
+}
+
+#options{
+  display: inline;
+  margin-right: 0;
+}
+
+body{
+  display: inline;
+
+}
+
+img {
+  float : left;
+}
